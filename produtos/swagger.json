@@ -1,0 +1,32 @@
+
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API de Produtos",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/produtos": {
+      "get": {
+        "summary": "Listar todos os produtos",
+        "responses": {
+          "200": { "description": "Lista de produtos" }
+        }
+      },
+      "post": {
+        "summary": "Cadastrar um novo produto",
+        "responses": {
+          "201": { "description": "Produto criado" }
+        }
+      }
+    },
+    "/produtos/{id}": {
+      "get": { "summary": "Buscar produto por ID", "responses": { "200": { "description": "Produto encontrado" }, "404": { "description": "Não encontrado" } } },
+      "put": { "summary": "Atualizar produto por ID", "responses": { "200": { "description": "Atualizado" }, "404": { "description": "Não encontrado" } } },
+      "delete": { "summary": "Deletar produto por ID", "responses": { "204": { "description": "Deletado" }, "404": { "description": "Não encontrado" } } }
+    },
+    "/produtos/nome/{nome}": {
+      "get": { "summary": "Buscar produto por nome", "responses": { "200": { "description": "Produto encontrado" }, "404": { "description": "Não encontrado" } } }
+    }
+  }
+}

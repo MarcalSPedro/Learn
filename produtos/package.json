@@ -1,0 +1,28 @@
+{
+  "name": "api-produtos",
+  "version": "1.0.0",
+  "description": "API REST de gerenciamento de produtos usando Node.js, Express e MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "produtos",
+    "swagger"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
