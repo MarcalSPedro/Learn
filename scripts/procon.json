@@ -1,0 +1,690 @@
+{
+  "zinnimodas.com": {
+    "intCodSite": "710",
+    "strSite": "zinnimodas.com",
+    "strEmpresa": "ZINNI PROMOCAO EM VENDAS ONLINE LTDA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "42078169000104",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "vivonestore.com": {
+    "intCodSite": "709",
+    "strSite": "vivonestore.com",
+    "strEmpresa": "VIVONE NEGOCIOS DIGITAIS LTDA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "33765910000114",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "vivadecor.com.br": {
+    "intCodSite": "708",
+    "strSite": "vivadecor.com.br",
+    "strEmpresa": "VIVA DECORACOES TEXTIL LTDA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "34375662000168",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "usenox.com": {
+    "intCodSite": "692",
+    "strSite": "usenox.com",
+    "strEmpresa": "GABRIEL LUCAS ALVES ALVARENGO",
+    "dtInclusao": "16/12/2022",
+    "strCNPJ": "40961139000116",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "tiggoshop.com.br": {
+    "intCodSite": "703",
+    "strSite": "tiggoshop.com.br",
+    "strEmpresa": "F.BRAZ MENDES NEGOCIOS DIGITAIS",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "42929632000184",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "tecnotec.com.br": {
+    "intCodSite": "707",
+    "strSite": "tecnotec.com.br",
+    "strEmpresa": "TECNOTEC LTDA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "05904663000154",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Sigaofertas.com.br": {
+    "intCodSite": "685",
+    "strSite": "Sigaofertas.com.br",
+    "strEmpresa": "SIGA OFERTAS COM. ELETRÔNICO",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "34294667000166",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "shopmaxx.com.br": {
+    "intCodSite": "691",
+    "strSite": "shopmaxx.com.br",
+    "strEmpresa": "SHOPMAXX DIGITAL GESTAO DE NEGOCIOS LTDA",
+    "dtInclusao": "16/12/2022",
+    "strCNPJ": "",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Santolarmoveis.com.br": {
+    "intCodSite": "684",
+    "strSite": "Santolarmoveis.com.br",
+    "strEmpresa": "SANTO LAR MÓVEIS E ELETRO LTDA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "31447793000115",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "saldaocarioca.com.br": {
+    "intCodSite": "747",
+    "strSite": "saldaocarioca.com.br",
+    "strEmpresa": "MWM DO BRASIL MARKETPLACE LTDA",
+    "dtInclusao": "20/10/2023",
+    "strCNPJ": "21905681000107",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "safiravillage.com.br": {
+    "intCodSite": "751",
+    "strSite": "safiravillage.com.br",
+    "strEmpresa": "YURI NEGROMONTE NASCIMENTO ROCHA",
+    "dtInclusao": "13/12/2023",
+    "strCNPJ": "47189721000155",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Rosafashion.com.br": {
+    "intCodSite": "686",
+    "strSite": "Rosafashion.com.br",
+    "strEmpresa": "ROSA JOAQUIM DOS S. NOGUEIRA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "40210751000157",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "rocklin.com.br": {
+    "intCodSite": "739",
+    "strSite": "rocklin.com.br",
+    "strEmpresa": "ROCKLIN STORE LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "23809815000111",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "premierexclusive.com.br": {
+    "intCodSite": "730",
+    "strSite": "premierexclusive.com.br",
+    "strEmpresa": "EZFIX IMPORTACAO E COMERCIO LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "15272816000141",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "peixeurbano.com.br": {
+    "intCodSite": "676",
+    "strSite": "peixeurbano.com.br",
+    "strEmpresa": "PEIXE URBANO WEB SITE",
+    "dtInclusao": "17/05/2021",
+    "strCNPJ": "11701558000110",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Outletdasfraldas.com.br": {
+    "intCodSite": "679",
+    "strSite": "Outletdasfraldas.com.br",
+    "strEmpresa": "BRENDO GONÇALVES DA SILVA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "30177993000132",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "ofertastore.com": {
+    "intCodSite": "704",
+    "strSite": "ofertastore.com",
+    "strEmpresa": "JOAO BATISTA MONTEIRO BRAGA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "24068929000110",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "nuvemdedescontos.com": {
+    "intCodSite": "702",
+    "strSite": "nuvemdedescontos.com",
+    "strEmpresa": "WE HUB NEGÓCIOS DIGITAIS LTDA",
+    "dtInclusao": "23/06/2023",
+    "strCNPJ": "47876836000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "mundialeletro.com.br": {
+    "intCodSite": "752",
+    "strSite": "mundialeletro.com.br",
+    "strEmpresa": "MUNDIAL ELETRO E TECNOLOGIA LTDA",
+    "dtInclusao": "13/12/2023",
+    "strCNPJ": "51375455000122",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "magazinmulher.com.br": {
+    "intCodSite": "715",
+    "strSite": "magazinmulher.com.br",
+    "strEmpresa": "EMANUEL ANTAS CARVALHO",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "32109554000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "magazinestore.com": {
+    "intCodSite": "714",
+    "strSite": "magazinestore.com",
+    "strEmpresa": "EMANUEL ANTA CARVALHO",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "32109554000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "magazinedosatacados.com": {
+    "intCodSite": "725",
+    "strSite": "magazinedosatacados.com",
+    "strEmpresa": "DROP AGENCY LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "42154916000146",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "magazineal.com": {
+    "intCodSite": "740",
+    "strSite": "magazineal.com",
+    "strEmpresa": "VH SERVICOS ADMINISTRATIVOS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "41512423000178",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Lovelybox.com.br": {
+    "intCodSite": "683",
+    "strSite": "Lovelybox.com.br",
+    "strEmpresa": "LOVELYBOX EMBALAGENS PERSON",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "40473193000112",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojavitesse.com": {
+    "intCodSite": "731",
+    "strSite": "lojavitesse.com",
+    "strEmpresa": "FAST NET NEGOCIOS DIGITAIS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "49205851000160",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojaslondrina.com.br": {
+    "intCodSite": "754",
+    "strSite": "lojaslondrina.com.br",
+    "strEmpresa": "LOJAS LONDRINA LTDA",
+    "dtInclusao": "25/06/2024",
+    "strCNPJ": "36623723000194",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojadubaiimports.com.br": {
+    "intCodSite": "726",
+    "strSite": "lojadubaiimports.com.br",
+    "strEmpresa": "DROP AGENCY LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "42154916000146",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojadigivarejista.com": {
+    "intCodSite": "713",
+    "strSite": "lojadigivarejista.com",
+    "strEmpresa": "DIGI HUB NEGOCIOS DIGITAIS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48286627000187",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojacondi.com": {
+    "intCodSite": "719",
+    "strSite": "lojacondi.com",
+    "strEmpresa": "AGOGE INTERMEDIACAO DE NEGOCIOS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "36277320000130",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojabestvarejos.com": {
+    "intCodSite": "701",
+    "strSite": "lojabestvarejos.com",
+    "strEmpresa": "WE HUB NEGÓCIOS DIGITAIS LTDA",
+    "dtInclusao": "13/06/2023",
+    "strCNPJ": "47876836000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lojaatlantis.com": {
+    "intCodSite": "734",
+    "strSite": "lojaatlantis.com",
+    "strEmpresa": "GV ECOMMERCE GROUP BRASIL LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "42868039000175",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "liquidashoes.com.br": {
+    "intCodSite": "720",
+    "strSite": "liquidashoes.com.br",
+    "strEmpresa": "BMCT EMPRESARIAL LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48945336000153",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "lewadoimports.com": {
+    "intCodSite": "735",
+    "strSite": "lewadoimports.com",
+    "strEmpresa": "LTCM CALCADOS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "40746343000114",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "leggingbrasil.com.br": {
+    "intCodSite": "695",
+    "strSite": "leggingbrasil.com.br",
+    "strEmpresa": "LEGGING BRASIL LTDA",
+    "dtInclusao": "02/03/2023",
+    "strCNPJ": "37563308000155",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "leggingbrasil.com": [
+    {
+      "intCodSite": "694",
+      "strSite": "leggingbrasil.com",
+      "strEmpresa": "LEEGING BRASIL LTDA",
+      "dtInclusao": "02/03/2023",
+      "strCNPJ": "37563308000155",
+      "strSituacao": "0",
+      "strMotivo": ""
+    },
+    {
+      "intCodSite": "696",
+      "strSite": "leggingbrasil.com",
+      "strEmpresa": "BRASIL TEXTIL LTDA",
+      "dtInclusao": "22/03/2023",
+      "strCNPJ": "34269853000145",
+      "strSituacao": "0",
+      "strMotivo": ""
+    }
+  ],
+  "Lbashop.com.br": {
+    "intCodSite": "681",
+    "strSite": "Lbashop.com.br",
+    "strEmpresa": "ISABELA MARCONDES KHZOUZ EIRELI",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "24117433000190",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "iwoseries.com": {
+    "intCodSite": "750",
+    "strSite": "iwoseries.com",
+    "strEmpresa": "V M C DOS SANTOS",
+    "dtInclusao": "13/12/2023",
+    "strCNPJ": "19510938000180",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "iluminim.com.br": {
+    "intCodSite": "743",
+    "strSite": "iluminim.com.br",
+    "strEmpresa": "COMERCIAL ILUMINIM LTDA",
+    "dtInclusao": "20/10/2023",
+    "strCNPJ": "23429903000198",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "hofferta.com": {
+    "intCodSite": "693",
+    "strSite": "hofferta.com",
+    "strEmpresa": "HOFFERTA",
+    "dtInclusao": "16/12/2022",
+    "strCNPJ": "",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "gomic.com.br": {
+    "intCodSite": "757",
+    "strSite": "gomic.com.br",
+    "strEmpresa": "GOMIC BEAUTY LTDA",
+    "dtInclusao": "05/09/2024",
+    "strCNPJ": "40701445000113",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "gigavarejo.com.br": {
+    "intCodSite": "697",
+    "strSite": "gigavarejo.com.br",
+    "strEmpresa": "GIGAVAREJO COMERCIO E ARTIGOS PARA O LAR LTDA",
+    "dtInclusao": "04/05/2023",
+    "strCNPJ": "37551442000136",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Gelniche.com.br": {
+    "intCodSite": "680",
+    "strSite": "Gelniche.com.br",
+    "strEmpresa": "PERFUMARIA E COSMÉTICOS KA LTDA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "20808977000147",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "futcertobrasil.com": {
+    "intCodSite": "749",
+    "strSite": "futcertobrasil.com",
+    "strEmpresa": "JEFERSON DE LIMA",
+    "dtInclusao": "13/12/2023",
+    "strCNPJ": "44349816000109",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "flystorebrasil.com.br": {
+    "intCodSite": "723",
+    "strSite": "flystorebrasil.com.br",
+    "strEmpresa": "DEL NEGOCIOS DIGITAIS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48066558000104",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "feme.com.br": {
+    "intCodSite": "732",
+    "strSite": "feme.com.br",
+    "strEmpresa": "FEME BR LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "45986109000188",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "fabricashoes.com.br": {
+    "intCodSite": "727",
+    "strSite": "fabricashoes.com.br",
+    "strEmpresa": "ENVIA TENIS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48161625000161",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "fabricaauthenticite.com": {
+    "intCodSite": "722",
+    "strSite": "fabricaauthenticite.com",
+    "strEmpresa": "CELIO ASSIS CORREA TEIXEIRA FILHO",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "49464245000169",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "everestgroup.com.br": {
+    "intCodSite": "729",
+    "strSite": "everestgroup.com.br",
+    "strEmpresa": "EVEREST GROUP PARTICIPACOES LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "40921411000134",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "equipamentosrodrigues.com": {
+    "intCodSite": "738",
+    "strSite": "equipamentosrodrigues.com",
+    "strEmpresa": "PEDRO AUGUSTO FERREIRA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "45326521000171",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "dutrametais.com": [
+    {
+      "intCodSite": "744",
+      "strSite": "dutrametais.com",
+      "strEmpresa": "THALIA OLIVEIRA DE ALMEIDA",
+      "dtInclusao": "20/10/2023",
+      "strCNPJ": "44481477000101",
+      "strSituacao": "0",
+      "strMotivo": ""
+    },
+    {
+      "intCodSite": "745",
+      "strSite": "dutrametais.com",
+      "strEmpresa": "FRANCIELLE CONSTANCIO DA SILVA",
+      "dtInclusao": "20/10/2023",
+      "strCNPJ": "50553453000113",
+      "strSituacao": "0",
+      "strMotivo": ""
+    }
+  ],
+  "drogariamc.com.br": {
+    "intCodSite": "756",
+    "strSite": "drogariamc.com.br",
+    "strEmpresa": "TH COMERCIO DA CIDADE ALEGRIA LTDA",
+    "dtInclusao": "25/06/2024",
+    "strCNPJ": "43628110000105",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Descontosbrasileiro.com": {
+    "intCodSite": "678",
+    "strSite": "Descontosbrasileiro.com",
+    "strEmpresa": "LIND PROMOÇÃO DE VENDAS LTDA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "41740062000117",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "dbellestore.com": {
+    "intCodSite": "728",
+    "strSite": "dbellestore.com",
+    "strEmpresa": "ENVIA TENIS LTDA",
+    "dtInclusao": "23/06/2023",
+    "strCNPJ": "48161625000161",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "compufree.com.br": {
+    "intCodSite": "677",
+    "strSite": "compufree.com.br",
+    "strEmpresa": "COMPUFREE INFORMÁTICA LTDA",
+    "dtInclusao": "03/02/2022",
+    "strCNPJ": "07124694000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "comandantedasofertas.com": {
+    "intCodSite": "742",
+    "strSite": "comandantedasofertas.com",
+    "strEmpresa": "comandantedasofertas.com",
+    "dtInclusao": "30/06/2023",
+    "strCNPJ": "",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "cogumeloshop.com": {
+    "intCodSite": "690",
+    "strSite": "cogumeloshop.com",
+    "strEmpresa": "CS PRODUTOS ELETRONICOS LTDA",
+    "dtInclusao": "16/12/2022",
+    "strCNPJ": "36146120000149",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Cintosbyhi.com.br": {
+    "intCodSite": "687",
+    "strSite": "Cintosbyhi.com.br",
+    "strEmpresa": "BYHI CONFECÇÕES LTDA",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "42535486000102",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "centroofertas.com.br": {
+    "intCodSite": "746",
+    "strSite": "centroofertas.com.br",
+    "strEmpresa": "N TECH NEGOCIOS DIGITAIS LTDA",
+    "dtInclusao": "20/10/2023",
+    "strCNPJ": "40502690000100",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "casamagazinebrasil.com": {
+    "intCodSite": "718",
+    "strSite": "casamagazinebrasil.com",
+    "strEmpresa": "ANTONIO ALEXANDRE DE CARVALHO E SOUSA JR",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48855323000193",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "casakith.com.br": {
+    "intCodSite": "733",
+    "strSite": "casakith.com.br",
+    "strEmpresa": "GABRIEL OLIVEIRA DO CARMO",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "48852510000113",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "casadonatebrasil.com": {
+    "intCodSite": "711",
+    "strSite": "casadonatebrasil.com",
+    "strEmpresa": "YURI DA SILVA MACHADO",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "47231669000158",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "caixamisteriosa.com": {
+    "intCodSite": "712",
+    "strSite": "caixamisteriosa.com",
+    "strEmpresa": "GRUPO ECOM BRASIL LTDA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "36716138000139",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "brezzy.com.br": {
+    "intCodSite": "706",
+    "strSite": "brezzy.com.br",
+    "strEmpresa": "SIMOA FERREIRA DE SOUZA",
+    "dtInclusao": "20/06/2023",
+    "strCNPJ": "35838744000164",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "brasilmagazine.com": {
+    "intCodSite": "716",
+    "strSite": "brasilmagazine.com",
+    "strEmpresa": "MATEUS REIS VENUTO",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "38275330000162",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "boticamaviris.com.br": {
+    "intCodSite": "755",
+    "strSite": "boticamaviris.com.br",
+    "strEmpresa": "JA FERREIRA SELANI ASSESSORIA ADM LTDA",
+    "dtInclusao": "25/06/2024",
+    "strCNPJ": "33519131000139",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "boavistaacabamentos.com": {
+    "intCodSite": "717",
+    "strSite": "boavistaacabamentos.com",
+    "strEmpresa": "SAULO DE OLIVEIRA FERREIRA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "46189241000121",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "bmjbaby.com.br": {
+    "intCodSite": "741",
+    "strSite": "bmjbaby.com.br",
+    "strEmpresa": "BMJ COM E SERV DE ARTIGOS INFANTIS LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "34657443000171",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "ascarishop.com": {
+    "intCodSite": "724",
+    "strSite": "ascarishop.com",
+    "strEmpresa": "DROP AGENCY LTDA",
+    "dtInclusao": "27/06/2023",
+    "strCNPJ": "42154916000146",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "allprinter.com.br": {
+    "intCodSite": "753",
+    "strSite": "allprinter.com.br",
+    "strEmpresa": "ALL PRINTER LTDA",
+    "dtInclusao": "13/12/2023",
+    "strCNPJ": "46189271000138",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "agachecomercial.net": {
+    "intCodSite": "689",
+    "strSite": "agachecomercial.net",
+    "strEmpresa": "Eline Ferraz Cruz Franco",
+    "dtInclusao": "19/07/2022",
+    "strCNPJ": "40037869000125",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "Acessivelmodasbras.com.br": {
+    "intCodSite": "682",
+    "strSite": "Acessivelmodasbras.com.br",
+    "strEmpresa": "J.W.G.DOS SANTOS COM E CONF",
+    "dtInclusao": "25/03/2022",
+    "strCNPJ": "41670743000156",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "123multiofertas.net": {
+    "intCodSite": "699",
+    "strSite": "123multiofertas.net",
+    "strEmpresa": "WE HUB NEGÓCIOS DIGITAIS LTDA",
+    "dtInclusao": "13/06/2023",
+    "strCNPJ": "47876836000118",
+    "strSituacao": "1",
+    "strMotivo": ""
+  },
+  "123multiofertas.com.br": {
+    "intCodSite": "700",
+    "strSite": "123multiofertas.com.br",
+    "strEmpresa": "WE HUB NEGÓCIOS DIGITAIS LTDA",
+    "dtInclusao": "13/06/2023",
+    "strCNPJ": "47876836000118",
+    "strSituacao": "0",
+    "strMotivo": ""
+  },
+  "123importados.com": {
+    "intCodSite": "698",
+    "strSite": "123importados.com",
+    "strEmpresa": "Online Intermediações e Comércio Ltda",
+    "dtInclusao": "05/05/2023",
+    "strCNPJ": "35912902000189",
+    "strSituacao": "0",
+    "strMotivo": ""
+  }
+}

@@ -11,7 +11,7 @@ HEADERS = [
 
 def neut_url(s: str) -> str:
     if not s: return s
-    s = s.replace("http://", "hxxp://").replace("https://", "hxxps://")
+    s = s.replace("http://", "http://").replace("https://", "https://")
     s = s.replace(".", "[.]")
     return s
 

@@ -1,16 +1,4 @@
-# OpenPhish (free feed) – lista de URLs de phishing, texto puro (atualiza ~6h). Endpoint: https://openphish.com/feed.txt. 
-# spamassassin.apache.org
 
-# PhishTank (CSV/API) – base colaborativa, com dump horário e API gratuita (precisa chave). Ex.: http://data.phishtank.com/data/online-valid.csv. 
-# phishtank.org
-# +1
-
-# URLhaus (abuse.ch) – tem Country Feed: você gera CSV/JSON só de URLs resolvendo para IPs geolocalizados no BR. Útil para “Brasil real”, não só .br. 
-# urlhaus.abuse.ch
-
-# https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php
-
-# https://www.siteconfiavel.com.br/e-golpe
 
 # agregador.py
 import csv, io, re, requests, pandas as pd
