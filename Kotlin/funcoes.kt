@@ -79,3 +79,60 @@ fun dar_andamento(peticao: String): Boolean {
 
 }
 */
+
+// ensinamentos de retorno
+fun main() {
+	val nome: String = "B"
+    val caracteristica: String = "Brava"
+    val idade: Byte = 24
+    
+    juntar_informacoes(nome, caracteristica, idade)
+}
+
+fun saldo_bancario(): Byte {
+	val credito: Byte = 50
+    val debito: Byte = 0
+    
+    // eu só exibo
+    
+    // aqui eu posso devolver este valor para ser reutilizado em outros lugares 
+    return (debito - credito).toByte()
+}
+
+fun familia() {
+	println("Fulano, Sicrano, Beltrando")
+}
+
+fun juntar_informacoes(nome: String, caracteristica: String, idade: Byte) {
+    val saldo = saldo_bancario()
+    val valores_a_receber = saldo + 150
+    familia()
+	println("A $nome está $caracteristica pois com $idade anos tem $valores_a_receber no banco")
+}
+
+
+// prioridade de chamada
+fun main() {
+    a1() // ele executa e termina
+    a3()
+    a4()
+    a2()
+    // a, c, d, b
+}
+
+fun a1() {
+	println("a")
+}
+
+
+fun a2() {
+	println("b")
+}
+
+fun a3() {
+	println("c")
+}
+
+fun a4() {
+	println("d")
+}
