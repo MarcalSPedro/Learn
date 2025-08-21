@@ -54,7 +54,6 @@ fun main() {
     f.toFloat()
 }
 
-
 /**
 Aula 3 
 */
@@ -70,6 +69,7 @@ func aula3() {
     }
 }
 
+/** explicações */
 fun ensinamentos() {
     /**
         palavras reservadas
