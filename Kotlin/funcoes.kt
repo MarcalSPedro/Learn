@@ -156,16 +156,11 @@ fun Exercicios() {
     fun exe1() {
         println("Insira a quantidade de Anos: ")
         val anos = readLine().toString().toInt();
-        println("Insira a quantidade de Meses: ")
-        val meses = readLine().toString().toInt();
-        println("Insira a quantidade de Dias: ")
-        val dias = readLine().toString().toInt();
-        println("Insira a quantidade de Horas: ")
-        val horas = readLine().toString().toInt();
-        println("Insira a quantidade de Minutos: ")
-        val minutos = readLine().toString().toInt();
-        println("Insira a quantidade de Segundos: ")
-        val segundos = readLine().toString().toInt();
+        val meses = anos * 12
+        val dias = meses * 365
+        val horas = dias * 24
+        val minutos = horas * 60
+        val segundos = minutos * 60
 
         println("%d ano(s) corresponde(m)".format(anos))
         println("%d meses".format(meses))
