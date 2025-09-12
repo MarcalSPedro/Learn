@@ -1,0 +1,14 @@
+preciso criar uma mega base de dados de todos os produtos que existem
+e-commerces
+salvando preço / nome do produto e site
+e ter versoes atualizada de cada produto em cada loja
+com preço
+por exemplo um timeline de preço
+começando inicio de outrubro
+até depois da blackfrinday
+friday*
+todo dia fazer a coleta de dados
+a ideia e criar um site para mostrar fraude de sites
+que sobre preço antes e depois faz descontos
+
+
